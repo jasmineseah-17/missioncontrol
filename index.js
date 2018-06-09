@@ -16,7 +16,7 @@ var app = {
 };
 
 /*INSERT ACCELEROMETER HERE*/
-
+// hello
 try {
     let sensor = new LinearAccelerationSensor({ frequency: 60 });
     sensor.start();
